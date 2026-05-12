@@ -1,7 +1,7 @@
 # Introductie
 
-Deze module is in combinatie te gebruiken met de specificatie aanlevering aan een e-depot. Het biedt een standaard werkwijze voor de aanlevering van informatie van een bronsysteem naar een doelsysteem.
+Dit document bevat antwoorden op veelgestelde vragen over Metagegevens Duurzaam Toegankelijke Overheidsinformatie (MDTO). MDTO is een overheidsbrede standaard voor het vastleggen en uitwisselen van metagegevens binnen de Nederlandse overheid, ontwikkeld door het Nationaal Archief als opvolger van TMLO en TMR.
 
-Deze module beschrijft de structuur van het Submission Information Package (SIP) dat nodig is voor de uitwisseling van informatieobjecten en bestanden tussen een bronsysteem en doelsysteem.
+De vragen en antwoorden geven inzicht in het ontwikkelproces van MDTO, de gemaakte inhoudelijke en technische keuzes, de verhouding tot wet- en regelgeving en andere standaarden, en de manier waarop MDTO in de praktijk kan worden toegepast. Ook wordt toegelicht hoe MDTO zich verhoudt tot eerdere metagegevensprofielen en waarom bepaalde ontwerpkeuzes zijn gemaakt.
 
-Het aanleveren van digitaal archief van een archiefvormer van een DMS naar een E-depot van een archiefinstelling is een voorbeeld van een dergelijke uitwisseling. Een ander voorbeeld is het uitwisselen van informatie tussen ketenpartners, bijvoorbeeld van DMS naar DMS.
+Samen bieden deze veelgestelde vragen een overzicht van de achtergrond, opzet en toepassing van MDTO, en helpen ze gebruikers de standaard beter te begrijpen en toe te passen.
