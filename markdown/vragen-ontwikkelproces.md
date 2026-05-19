@@ -105,7 +105,7 @@ In TMLO/TMR is Integriteit een element dat betrekking heeft op de inhoudelijke i
 In TMLO/TMR worden vormkenmerken vastgelegd met een eigen element. Dit biedt de mogelijkheid om informatie te categoriseren op basis van die kenmerken. Dit is een vorm van classificatie. In MDTO kunnen vormkenmerken vastgelegd worden met het attribuut ‘Classificatie’. 
 
 ## Waarom bevat MDTO een RDF-ontologie?
-Steeds vaker stellen organisaties (meta)gegevens beschikbaar als linked data. Om deze ontwikkeling ook voor MDTO-metagegevens mogelijk te maken is al rekening gehouden met het uitwisselen van MDTO-metagegevens als Resource Description Framework (RDF). Daarvoor is een vertaling gemaakt van het MDTO-metagegevensschema naar een RDF-ontologie.
+Steeds vaker stellen organisaties (meta)gegevens beschikbaar als linked data. Om deze ontwikkeling ook voor MDTO-metagegevens mogelijk te maken is al rekening gehouden met het uitwisselen van MDTO-metagegevens als Resource Description Framework (RDF). Daarvoor is een vertaling gemaakt van het MDTO-metagegevensschema naar een [RDF-ontologie](https://nationaalarchief.github.io/MDTO-RDF/).
 
 Maar omdat RDF nog niet algemeen gangbaar is binnen informatiebeheer, is MDTO niet helemaal in RDF gespecificeerd. Er kan niet van worden uitgegaan dat alle overheidsorganisaties met RDF kunnen werken. MDTO-metagegevens kunnen wel als RDF beschikbaar gesteld worden in aanvulling op de standaard XML-representatie van MDTO. Bij uitwisseling tussen twee partijen mogen MDTO-metagegevens als RDF beschikbaar gesteld worden in plaats van de standaard XML-representatie, als daar bilaterale afspraken over zijn gemaakt tussen de betrokken partijen. 
 
