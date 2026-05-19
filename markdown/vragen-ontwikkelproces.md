@@ -7,7 +7,7 @@ Leveranciers hebben ook input geleverd. Bij de ontwikkeling van MDTO heeft het N
 ## Waarom is MDTO ontwikkeld?
 
 <strong>Opdracht</strong><br>
-De Standaardisatieraad van het Nationaal Archief heeft de opdracht voor de ontwikkeling van MDTO en het resultaat van die doorontwikkeling (de huidige versie van MDTO) vastgesteld. 
+De [Standaardisatieraad](https://www.nationaalarchief.nl/archiveren/standaardisatieraad-nationaal-archief) van het Nationaal Archief heeft de opdracht voor de ontwikkeling van MDTO en het resultaat van die doorontwikkeling (de huidige versie van MDTO) vastgesteld. 
 
 MDTO is de opvolger van het Toepassingsprofiel Metagegevens Lokale Overheden (TMLO), versie 1.1. De oorspronkelijke versie van TMLO (1.0) is in 2013 vastgesteld door het Convent. Aan dit overleg nemen de Regionale Historische Centra (RHC’s) en het Nationaal Archief deel. Deze versie was grotendeels gebaseerd op het Toepassingsprofiel Metagegevens Rijksoverheid (TMR) uit 2009. 
 
@@ -17,7 +17,7 @@ Het Nationaal Archief heeft de nog door Archief2020 ingezette verdere doorontwik
 
 Voor een betere synergie tussen TMLO en TMR en een zo efficiënt mogelijke inzet van beschikbare expertise is in 2019 besloten één norm voor de gehele overheid te maken: Metagegevens Duurzaam Toegankelijke Overheidsinformatie. MDTO is bedoeld om TMLO en TMR te vervangen.
 
-De module Aanleverproces Submission Information Package is gebaseerd op de use case (de in kaart gebrachte systeemeisen) voor het aanleveren van metagegevens en bestanden aan een e-depot (in MDTO ‘doelsysteem’). Dit is niet de enige vastgestelde use case rondom uitwisseling. Op het Kennisplatform Informatie en Archief (KIA) staat een overzicht van de use cases die eerder zijn opgehaald. Deze andere use cases werken we op termijn uit, afhankelijk van de prioriteit die de Standaardisatieraad hieraan geeft.  
+De [module Aanleverproces Submission Information Package](https://nationaalarchief.github.io/MDTO-SIP-aanleverproces/) is gebaseerd op de use case (de in kaart gebrachte systeemeisen) voor het aanleveren van metagegevens en bestanden aan een e-depot (in MDTO ‘doelsysteem’). Dit is niet de enige vastgestelde use case rondom uitwisseling. Op het Kennisplatform Informatie en Archief (KIA) staat een overzicht van de use cases die eerder zijn opgehaald. Deze andere use cases werken we op termijn uit, afhankelijk van de prioriteit die de Standaardisatieraad hieraan geeft.  
 
 <strong>Ontwikkelproces</strong><br>
 Het Nationaal Archief heeft de redactie gevoerd over de inhoud van alle modules van MDTO. Sinds 2019 begeleiden redactiegroepen het Nationaal Archief inhoudelijk bij een aantal modules van MDTO. In de redactiegroepen zitten experts van overheidsorganisaties, archiefinstellingen en (software)leveranciers.  Het Nationaal Archief heeft met hen conceptversies gedeeld ter review en inhoudelijke keuzes besproken. 
@@ -31,7 +31,7 @@ De belangrijkste uitkomsten van de tweede openbare review en de inhoudelijke keu
 
 Afstemming is verder gezocht met het Kennis- en exploitatiecentrum Officiële Overheidspublicaties (KOOP, onderdeel van BZK), als beheerder van PLOOI en OWMS, met de Vereniging van Nederlandse Gemeenten (VNG) en met CIO Rijk (BZK) als beheerder van TMR.
 
-Voor de communicatie rondom de doorontwikkeling van MDTO gebruiken we het Kennisnetwerk Informatie en Archief. Hier staan ook eerdere conceptversies van MDTO.
+Voor de communicatie rondom de doorontwikkeling van MDTO gebruiken we het [Kennisnetwerk Informatie en Archief](https://kiacommunity.nl/groups/150-mdto/welcome). Hier staan ook eerdere conceptversies van MDTO.
 
 
 ## Wat is het verschil tussen TMLO/TMR en MDTO?
