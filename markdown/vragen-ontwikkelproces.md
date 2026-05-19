@@ -53,11 +53,11 @@ In de praktijk hebben archiefinstellingen daar zelf invulling aan gegeven. Dit l
 Modules van MDTO zijn:
 | Normerend                  | Niet-normerend             |
 | -------------------------- | -------------------------- |
-| Metagegevensschema         | RDF ontologie              |
-| XML Schema                 | Aanleverproces SIP         |
-| Definitie van MDTO conform | Mapping TMLO/TMR naar MDTO |
-| MDTO begrippenlijsten      |                            |
-| Specificatie SIP           |                            |
+| [Metagegevensschema](https://nationaalarchief.github.io/MDTO-Metagegevensschema/)         | [RDF ontologie](https://nationaalarchief.github.io/MDTO-RDF/)              |
+| [XML Schema](https://nationaalarchief.github.io/MDTO-XSD/)                 | [Aanleverproces SIP](https://nationaalarchief.github.io/MDTO-SIP-aanleverproces/)         |
+| [Definitie van MDTO conform](https://nationaalarchief.github.io/MDTO-Conform/) | [Mapping TMLO/TMR naar MDTO](https://nationaalarchief.github.io/MDTO-TMLO-TMR/) |
+| [MDTO begrippenlijsten](https://nationaalarchief.github.io/MDTO-Metagegevensschema/#begrippenlijsten)      |                            |
+| [Specificatie SIP](https://nationaalarchief.github.io/MDTO-SIP-specificatie/)           |                            |
 
 <strong>Nummering attributen</strong><br>
 Attributen in MDTO zijn niet voorzien van een nummer, zoals in TMLO/TMR.
