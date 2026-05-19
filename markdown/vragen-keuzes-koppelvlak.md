@@ -18,7 +18,7 @@ Deze keuze is gemaakt omdat de sidecar structuur:
 De aanleverende en ontvangende partij kunnen afspreken om bij de aanlevering de metagegevens niet in een sidecar structuur uit te wisselen. Dit is dan niet conform MDTO, maar op basis van de onderlinge afspraak. Maar als een van beide partijen conform MDTO wil uitwisselen, moet dit mogelijk zijn.
 
 ## Hoe wordt in de SIP de relatie gelegd tussen het informatieobject en het bestand?
-Dit is een relatie die specifiek in de metagegevens moet worden meegegeven. Vanuit het Bestand door het attribuut ‘Is representatie van’, vanuit het informatieobject door het attribuut ‘Heeft representatie’.
+Dit is een relatie die specifiek in de metagegevens moet worden meegegeven. Vanuit het Bestand door het attribuut ‘[Is representatie van](https://nationaalarchief.github.io/MDTO-Metagegevensschema/#isrepresentatievan)’, vanuit het informatieobject door het attribuut ‘[Heeft representatie](https://nationaalarchief.github.io/MDTO-Metagegevensschema/#heeftrepresentatie)’.
 
 NB. Er is geen relatie mogelijk tussen bestanden onderling. Er moet altijd een relatie met een informatieobject zijn. Wel kunnen meerdere bestanden een relatie hebben met één informatieobject.
 
