@@ -127,7 +127,7 @@ MDTO beschrijft geen metagegevens die aan een van de volgende criteria voldoet:
 **Aanvullende metagegevens**\
 Metagegevens bij informatieobjecten die buiten de scope van MDTO vallen kunnen binnen MDTO als aanvullende metagegevens worden vastgelegd. De beheerders van de betreffende informatieobjecten moeten dan zelf  specificeren wat de structuur en betekenis is. 
 
-## Welke wijzigingen zijn gedaan aan MDTO alvorens de overgang naar GitHub?
+## Welke wijzigingen zijn gedaan aan MDTO voor de overgang naar GitHub?
 
 
 | Datum             | Onderdeel                                                                                                                                                                                                                                                                 | Wijziging                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
