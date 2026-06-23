@@ -1,13 +1,13 @@
 <details open><summary>Meer details over dit document</summary>
 
 > **Deze versie**  
-> https://nationaalarchief.github.io/MDTO-XSD/
+> https://nationaalarchief.github.io/MDTO-Veelgestelde-vragen/
 >
 > **Vorige versie**  
 > N.v.t.  Dit is de eerste versie.
 >
 > **Meest recente versie**  
-> https://nationaalarchief.github.io/MDTO-XSD/
+> https://nationaalarchief.github.io/MDTO-Veelgestelde-vragen/
 >
 > **Huidige werkversie**  
 > N.v.t.  Er is op dit moment geen nieuwe versie in voorbereiding.
@@ -25,9 +25,9 @@ info@nationaalarchief.nl
 
 **Doe mee**
 
-- [Bekijk de GitHub repository](https://github.com/NationaalArchief/MDTO-XSD/)
-- [Maak een issue aan](https://github.com/NationaalArchief/MDTO-XSD/issues/new/choose)
-- [Bekijk openstaande issues](https://github.com/NationaalArchief/MDTO-XSD/issues/)
+- [Bekijk de GitHub repository](https://github.com/NationaalArchief/MDTO-Veelgestelde-vragen)
+- [Maak een issue aan](https://github.com/NationaalArchief/MDTO-Veelgestelde-vragen/issues/new)
+- [Bekijk openstaande issues](https://github.com/NationaalArchief/MDTO-Veelgestelde-vragen/issues)
 - [Neem contact op met het Nationaal Archief](https://www.nationaalarchief.nl/beleven/contactformulier-nationaal-archief)
 
 ---
