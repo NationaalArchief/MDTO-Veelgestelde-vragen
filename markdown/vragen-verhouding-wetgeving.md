@@ -26,14 +26,15 @@ NEN-ISO 15489 is de internationale standaard die de algemene concepten en princi
 [TOOI](https://standaarden.overheid.nl/tooi) (Thesauri en Ontologieën voor Overheidsinformatie) is een kennismodel voor officiële overheidsinformatie. MDTO en TOOI zijn complementaire standaarden. MDTO specificeert een syntax, TOOI specificeert semantiek en biedt identificatie van overheidsorganisaties en begrippen. Om die reden hebben het Nationaal Archief en KOOP MDTO en TOOI op 1 maart 2024 gelijktijdig aangemeld voor opname op de “Pas toe of leg uit”-lijst van het Forum Standaardisatie. Bij de aanmelding is de relatie tussen MDTO en TOOI uitgebreid toegelicht in een bijlage 'Relatie MDTO en TOOI v1.0'. 
 
 > **Bijlage: Relatie MDTO en TOOI v1.0**\
- [Toelichting relatie MDTO en TOOI](https://github.com/NationaalArchief/MDTO-Veelgestelde-vragen/blob/9ceef7e5985132264fc0231fad5db76290044bbb/downloads/Relatie%20mdto%20en%20tooi.pdf)
-
+Download PDF: [Toelichting relatie MDTO en TOOI](https://github.com/NationaalArchief/MDTO-Veelgestelde-vragen/blob/9ceef7e5985132264fc0231fad5db76290044bbb/downloads/Relatie%20mdto%20en%20tooi.pdf)
 
 ## Wat is de relatie met DCAT-AP-NL en het NL profiel op ISO 19115?
 [DCAT-AP-NL](https://docs.geostandaarden.nl/dcat/def-st-dcat-ap-nl30-20250526/)  is een applicatieprofiel op het Europese applicatieprofiel DCAT-AP van de DCAT standaard, dat ervoor zorgt dat informatie (metadata) over datasets en dataservices (API’s) op een uniforme manier wordt vastgelegd en gedeeld om uitwisseling van die metadata tussen datacatalogi uit verschillende domeinen mogelijk te maken. Het [NL profiel op ISO 19115](https://docs.geostandaarden.nl/md/mdprofiel-iso19115/) is een profiel op de internationale standaard ISO 19115, en richt zich op de eenduidige beschrijving van ruimtelijke datasets, uit verschillende domeinen.
 
 > **Bijlage: Toelichting relatie MDTO en DCAT**\
- [Relatie MDTO en DCAT-AP-NL en NL profiel op ISO 19115](https://github.com/NationaalArchief/MDTO-Veelgestelde-vragen/blob/main/downloads/Relatie%20mdto%20en%20dcat.pdf)
+DCAT-AP-NL, het NL profiel op ISO 19115 en MDTO kennen inhoudelijk een aantal overeenkomsten en verschillen. Deze zijn beschreven in een notitie. Deze notitie is opgesteld door Geonovum en het Nationaal Archief in het kader van de procedures voor plaatsing op de pas-toe-of-leg-uit lijst van zowel DCAT-AP-NL als MDTO.’<br>
+Download PDF:  [Toelichting: Relatie MDTO en DCAT-AP-NL en NL profiel op ISO 19115](https://github.com/NationaalArchief/MDTO-Veelgestelde-vragen/blob/main/downloads/Relatie%20mdto%20en%20dcat.pdf)
+
 
 ## Wat is de relatie met andere metagegevensstandaarden?
 MDTO is niet de enige norm voor metagegevens binnen de Nederlandse overheid. Maar wel de enige overheidsbrede norm voor generieke metagegevens voor duurzame toegankelijkheid. Er zijn diverse andere standaarden voor metagegevens, zoals het [Nederlands metadataprofiel op ISO 19115 geografie](https://docs.geostandaarden.nl/md/mdprofiel-iso19115/). Binnen de Gemeentelijke Modelarchitectuur (GEMMA) bestaat bijvoorbeeld al het Referentiemodel Gemeentelijke Basisgegevens Zaken (RGBZ). Deze andere standaarden zijn niet-generiek of dienen een ander doel.
