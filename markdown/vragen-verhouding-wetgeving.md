@@ -33,8 +33,8 @@ Download PDF: [Toelichting relatie MDTO en TOOI](https://github.com/NationaalArc
 
 > **Bijlage: Toelichting relatie MDTO en DCAT**\
 DCAT-AP-NL, het NL profiel op ISO 19115 en MDTO kennen inhoudelijk een aantal overeenkomsten en verschillen. Deze zijn beschreven in een notitie. Deze notitie is opgesteld door Geonovum en het Nationaal Archief in het kader van de procedures voor plaatsing op de pas-toe-of-leg-uit lijst van zowel DCAT-AP-NL als MDTO.’<br>
-Download PDF:  [Toelichting: Relatie MDTO en DCAT-AP-NL en NL profiel op ISO 19115](https://github.com/NationaalArchief/MDTO-Veelgestelde-vragen/blob/main/downloads/Relatie%20mdto%20en%20dcat.pdf)
-
+Download PDF:  [Toelichting: Relatie MDTO en DCAT-AP-NL en NL profiel op ISO 19115](https://github.com/NationaalArchief/MDTO-Veelgestelde-vragen/blob/main/downloads/Relatie%20mdto%20en%20dcat.pdf) <br>
+Download mapping: [mapping tussen MDTO, DCAT-AP-NL en NL profiel op ISO 19115 (.zip bestand)](https://www.geonovum.nl/documents/mapping-mdto-dcat-ap-nl-iso19115-voor-publicatiezip)
 
 ## Wat is de relatie met andere metagegevensstandaarden?
 MDTO is niet de enige norm voor metagegevens binnen de Nederlandse overheid. Maar wel de enige overheidsbrede norm voor generieke metagegevens voor duurzame toegankelijkheid. Er zijn diverse andere standaarden voor metagegevens, zoals het [Nederlands metadataprofiel op ISO 19115 geografie](https://docs.geostandaarden.nl/md/mdprofiel-iso19115/). Binnen de Gemeentelijke Modelarchitectuur (GEMMA) bestaat bijvoorbeeld al het Referentiemodel Gemeentelijke Basisgegevens Zaken (RGBZ). Deze andere standaarden zijn niet-generiek of dienen een ander doel.
